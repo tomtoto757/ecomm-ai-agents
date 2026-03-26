@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "note": "Example config only. Do not commit real tokens or phone numbers."
+  },
+  "agents": {
+    "defaults": {
+      "model": {
+        "primary": "openai-codex/gpt-5.4-mini"
+      },
+      "workspace": "/absolute/path/to/workspace"
+    }
+  },
+  "tools": {
+    "profile": "coding"
+  },
+  "channels": {
+    "whatsapp": {
+      "enabled": false,
+      "dmPolicy": "allowlist",
+      "allowFrom": [
+        "+15555555555"
+      ]
+    }
+  },
+  "gateway": {
+    "port": 18789,
+    "mode": "local",
+    "bind": "loopback",
+    "auth": {
+      "mode": "token",
+      "token": "REPLACE_WITH_LOCAL_SECRET"
+    }
+  }
+}

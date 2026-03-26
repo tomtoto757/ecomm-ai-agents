@@ -1,0 +1,6 @@
+order_id,product,quantity,price,status
+1001,Wireless Mouse,1,25,shipped
+1002,Keyboard,1,45,processing
+1003,USB Cable,2,10,shipped
+1004,Monitor Stand,1,30,processing
+1005,Wireless Mouse,1,25,processing

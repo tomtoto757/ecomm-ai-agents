@@ -1,0 +1,6 @@
+Customer complaints:
+
+1. Order 1002 has not shipped yet.
+2. Received defective mouse.
+3. Shipping took too long.
+4. Wrong item delivered.

@@ -1,0 +1,4 @@
+order_id,product,reason,status
+1001,Wireless Mouse,defective,returned
+0998,Keyboard,not satisfied,returned
+0995,USB Cable,wrong item,returned

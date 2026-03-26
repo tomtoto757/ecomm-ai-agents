@@ -1,0 +1,18 @@
+Daily Store Report
+
+Date:
+
+Orders today:
+Returns today:
+Refunds today:
+
+Customer issues:
+Inventory issues:
+Marketing performance:
+Revenue summary:
+
+Problems detected:
+
+Tasks created:
+
+Suggestions:

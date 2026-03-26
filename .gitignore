@@ -1,0 +1,23 @@
+.DS_Store
+*.log
+*.sqlite
+*.bak
+.env
+.env.*
+
+# Runtime and local state
+logs/
+memory/
+sessions/
+workspace/memory/
+workspace-state.json
+
+# Private OpenClaw/local files
+openclaw.json
+credentials/
+identity/
+devices/
+
+# Editor and OS noise
+.vscode/
+.idea/

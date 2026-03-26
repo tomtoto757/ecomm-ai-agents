@@ -1,0 +1,24 @@
+Store Manager Daily Workflow
+
+Every day you should:
+
+1. Review orders in orders/
+2. Review returns and refunds
+3. Review customer complaints in customers/
+4. Review inventory in products/
+5. Review marketing performance in marketing/
+6. Review revenue and costs in finance/
+
+After reviewing data:
+
+7. Write daily report in reports/daily_report.txt
+8. If returns increase, record reason
+9. If customer complaints exist, create tasks in tasks/urgent.txt
+10. If inventory is low, create tasks in tasks/todo.txt
+11. Summarize store status
+12. Suggest improvements
+
+CEO request:
+- Generate a daily operations report every day.
+- Base it on orders, returns, support tickets, marketing, and finance data.
+- Write the report into the reports folder.
