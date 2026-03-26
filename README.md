@@ -60,20 +60,3 @@ Core responsibilities:
 ## Example Data
 
 The data in `ecomm-ai-company/` is demo data for illustration. Replace it with your own data sources or generation scripts before using this in a real workflow.
-
-## Safe Publishing Notes
-
-If you adapt this project, keep these private:
-- Tokens, API keys, gateway secrets
-- Phone numbers and allowlists
-- Credentials and auth sessions
-- Logs and chat transcripts
-- Memory files about real people
-- Machine-specific config and local notes
-
-## Suggested Next Steps
-
-1. Initialize a git repo in this folder.
-2. Review the example data and rename or expand files as needed.
-3. Connect your real data pipeline outside of version control.
-4. Keep secrets in ignored local config files or environment variables.
