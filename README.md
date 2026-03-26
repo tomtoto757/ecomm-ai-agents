@@ -16,21 +16,6 @@ share workflows, or discuss tools and agents, I am more than happy to connect.
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/V5sBXsybCW)
 
-It includes:
-- A dedicated store-manager agent prompt
-- A simple ecommerce workspace layout
-- SOPs for daily review and reporting
-- Example CSV and text files for orders, returns, complaints, inventory, marketing, and finance
-- A report template and task lists
-- A starting structure you can expand with more agents, workflows, and skills
-
-It does not include:
-- Real credentials or tokens
-- Device identity files
-- Chat/session logs
-- Personal memory files
-- Runtime state from a live OpenClaw install
-
 ## Repo Layout
 
 ```text
