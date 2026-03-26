@@ -2,6 +2,20 @@
 
 This repo is a public, shareable foundation for an ecommerce AI company built around agents, workflows, skills, and structured workspace data.
 
+## Community / Discussion
+
+This repo is part of my exploration into AI + Ecommerce operations,
+especially around automation workflows like returns, support, tracking,
+order management, and internal operations.
+
+I believe the most useful AI tools in ecommerce are not marketing tools,
+but operational automation tools that save real time and cost.
+
+If you're also interested in this area and want to exchange ideas,
+share workflows, or discuss tools and agents, I am more than happy to connect.
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/V5sBXsybCW)
+
 It includes:
 - A dedicated store-manager agent prompt
 - A simple ecommerce workspace layout
@@ -78,19 +92,3 @@ If you adapt this project, keep these private:
 2. Review the example data and rename or expand files as needed.
 3. Connect your real data pipeline outside of version control.
 4. Keep secrets in ignored local config files or environment variables.
-
-## Community / Discussion
-
-This repo is part of my exploration into AI + Ecommerce operations,
-especially around automation workflows like returns, support, tracking,
-order management, and internal operations.
-
-I believe the most useful AI tools in ecommerce are not marketing tools,
-but operational automation tools that save real time and cost.
-
-If you're also interested in this area and want to exchange ideas,
-share workflows, or discuss tools and agents, I created a small Discord:
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/V5sBXsybCW)
-
-Always happy to meet people working on similar problems.
