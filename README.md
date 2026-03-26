@@ -1,6 +1,6 @@
-# Public Ecomm Store Manager
+# Ecomm AI Agents
 
-This repo is a shareable example of a file-driven AI store manager for an ecommerce business.
+This repo is a public, shareable foundation for an ecommerce AI company built around agents, workflows, skills, and structured workspace data.
 
 It includes:
 - A dedicated store-manager agent prompt
@@ -8,6 +8,7 @@ It includes:
 - SOPs for daily review and reporting
 - Example CSV and text files for orders, returns, complaints, inventory, marketing, and finance
 - A report template and task lists
+- A starting structure you can expand with more agents, workflows, and skills
 
 It does not include:
 - Real credentials or tokens
@@ -32,9 +33,21 @@ ecomm-ai-company/
 openclaw.example.json
 ```
 
+## Vision
+
+This repo is meant to grow into a broader ecommerce AI system, not just a single manager agent.
+
+Possible future additions:
+- More specialized agents
+- Shared skills and tools
+- Automation workflows
+- Data ingestion scripts
+- Reporting pipelines
+- Internal SOP libraries
+
 ## How It Works
 
-The store manager reads data from the ecommerce workspace, reviews daily store operations, writes a report, and creates tasks when issues are detected.
+The current example store manager reads data from the ecommerce workspace, reviews daily store operations, writes a report, and creates tasks when issues are detected.
 
 Core responsibilities:
 - Monitor orders, returns, and refunds
