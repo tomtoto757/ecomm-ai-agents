@@ -2,7 +2,7 @@
 
 This repo is a public, shareable foundation for an ecommerce AI company built around agents, workflows, skills, and structured workspace data.
 
-## Community / Discussion
+## Discussion
 
 This repo is part of my exploration into AI + Ecommerce operations,
 especially around automation workflows like returns, support, tracking,
